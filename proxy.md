@@ -5,7 +5,7 @@
      apt-get install gcc
      apt-get install --reinstall build-essential
      wget https://github.com/z3APA3A/3proxy/archive/0.8.11.tar.gz
-     tar -xvzf 3proxy-0.8.11.tar.gz
+     tar -xvzf 0.8.11.tar.gz
      Переименуем папку в 3proxy
      cd 3proxy
      echo '#define ANONYMOUS 1' >> src/proxy.h
